@@ -5,3 +5,5 @@ Gemfile.lock
 .idea
 .api_path
 .access_token
+composer.lock
+vendor/
